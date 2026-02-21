@@ -1,3 +1,5 @@
 apple
 pear
 lemon
+grapes
+blue berries
